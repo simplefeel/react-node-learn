@@ -1,13 +1,13 @@
 # React-Node
 
 ## 概览
-这是一个脚手架工具，前端使用react渲染，后端由node.js提供服务，主要有以下特点：
+这是一个脚手架工具，前端使用react渲染，后端由node.js提供服务，主要有以下特点：
 
 * 前端react+react-router+webpack
-* 后端由node.js+express提供服务，可自行配置数据库，比如mogodb
+* 后端由node.js+express提供服务
 * 开发环境和生产环境分离，不同配置，有效降低包的大小，提高访问性能
 * 前端开发热加载，实时更新页面
-* 通过nodemon，后端服务自动更新
+* 通过nodemon，后端服务实时更新
 
 ## 项目目标
 快速搭建node+react项目，不管是个人练习react项目或者是练习node.js，都能快速搭建开发环境
