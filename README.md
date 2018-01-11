@@ -35,7 +35,7 @@ $ npm run start
 ```
 开启后，打开localhost:9000, 登录，体验node.js是如何处理前端ajax请求的
 
-## 相关学习链接：
+## 相关学习链接
 [一起学node.js]https://github.com/nswbmw/N-blog</br>
 [node.js包教不包会]https://github.com/alsotang/node-lessons
 
