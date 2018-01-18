@@ -6,7 +6,13 @@ const port = process.env.PORT || 8080
 //设置首屏渲染页面
 app.get('/', function(req ,res){
     //这里可以引入模板引擎，比如artTemplate，渲染成一个真实的html页面
-    res.send('我是首页')
+    res.render('index.art', {
+        user: {
+            name: 'aui',
+            tags: ['art', 'template', 'nodejs']
+        },
+        title: '我是服务端首页渲染，防止首页白屏'
+    });
 })
 
 // 设置浏览器可以直接访问的静态文件目录，例如localhost:9000/index.html
@@ -16,6 +22,12 @@ app.use(express.static('public'))
 app.get('*', function (request, response){
     response.sendFile(path.resolve('public/index.html'))
 })
+
+// 设置模板引擎为 art
+app.engine('art', require('express-art-template'));
+app.set('view options', {
+    debug: process.env.NODE_ENV !== 'production'
+});
 
 // 接受前端login请求，返回数据
 app.post('/login', function (req, res) {

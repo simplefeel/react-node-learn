@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^3.1.1",
+    "art-template": "^4.12.2",
     "autoprefixer": "^7.2.4",
     "axios": "^0.17.1",
     "babel-core": "^6.26.0",
@@ -23,6 +24,7 @@
     "clean-webpack-plugin": "^0.1.17",
     "css-loader": "^0.28.8",
     "express": "^4.16.2",
+    "express-art-template": "^1.0.0",
     "html-webpack-plugin": "^2.30.1",
     "precss": "^2.0.0",
     "react": "^16.2.0",
