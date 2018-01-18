@@ -10,7 +10,7 @@
 * 通过nodemon，后端服务实时更新
 
 ## 项目目标
-1.快速搭建node+react项目，不管是个人练习react项目或者是练习node.js，都能快速搭建开发环境
+1.快速搭建node+react项目，不管是个人练习react项目或者是练习node.js，都能快速搭建开发环境<br/>
 2.学会初步使用node.js作为中间层，从而实现真正意义上的前后端分离。
 
 ## 使用
@@ -34,7 +34,7 @@ $ npm run dev
 ```
 $ npm run start
 ```
-开启后，打开localhost:9000
+开启后，打开localhost:9000,调整node服务
 
 > 源码都有使用注释，欢迎讨论学习
 
