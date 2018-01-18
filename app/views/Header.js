@@ -7,7 +7,7 @@ const Header = () => (
         <nav>
             <ul>
                 <li>
-                    <Link to='/'>Home</Link>
+                    <a href='/'>Home</a>
                 </li>
                 <li>
                     <Link to='/login'>登录</Link>

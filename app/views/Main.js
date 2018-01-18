@@ -6,7 +6,6 @@ import Login from './Login'
 const Main = () => (
     <main>
         <Switch>
-            <Route exact path='/' component={Home}/>
             <Route path='/login' component={Login}/>
             <Route path='/home' component={Home}/>
         </Switch>
