@@ -50,7 +50,8 @@ $ npm run start
 
 ## node.js 系列教程
 
-以下系列转载自：<https://blog.risingstack.com/node-js-tutorial-russian-translation/>
+以下系列转载自：众城翻译、segmentfault<br/>
+原文：<https://blog.risingstack.com/node-js-tutorial-russian-translation/>
 
 1.[开始使用 node.js](http://www.zcfy.cc/article/node-hero-getting-started-with-node-js-tutorial-risingstack-1748.html)</br> 2.[使用 NPM](http://www.zcfy.cc/article/node-hero-using-npm-tutorial-risingstack-1749.html?t=newl)</br> 3.[理解异步编程](http://www.zcfy.cc/article/node-hero-understanding-async-programming-in-node-js-1759.html)</br> 4.[第一个 Node.js HTTP 服务器](http://www.zcfy.cc/article/node-hero-your-first-node-js-http-server-risingstack-1750.html)</br> 5.[Node.js 数据库教程](http://www.zcfy.cc/article/node-hero-node-js-database-tutorial-risingstack-1751.html)</br> 6.[Node.js Request 模块](https://segmentfault.com/a/1190000010964387)</br> 7.[Node.js 项目结构](http://www.zcfy.cc/article/node-hero-node-js-project-structure-tutorial-risingstack-1756.html?t=new)</br> 8.[使用 Passport.js 进行 Node.js 身份验证](https://segmentfault.com/a/1190000010964445)</br> 9.[Node.js 单元测试](https://segmentfault.com/a/1190000010964487)</br>
 
