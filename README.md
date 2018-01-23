@@ -56,9 +56,9 @@ $ npm run start
 
 ## 相关学习链接
 
-[一起学 node.js]https://github.com/nswbmw/N-blog</br>
-[node.js 包教不包会]https://github.com/alsotang/node-lessons<br/>
-[前后端分离的思考与实践]http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/
+[一起学 node.js](https://github.com/nswbmw/N-blog)</br>
+[node.js 包教不包会](https://github.com/alsotang/node-lessons)<br/>
+[前后端分离的思考与实践](http://taobaofed.org/blog/2014/04/05/practice-of-separation-of-front-end-from-back-end/)
 
 ## 结语
 
