@@ -57,7 +57,8 @@ $ npm run start
 
 以下 4 篇文章，网络未找到译文，原文同样出自 risingstack：<br/>
 
-10 [调试 node.js 应用](https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/)</br> 11 [node.js 安全策略](https://blog.risingstack.com/node-hero-node-js-security-tutorial/)</br> 12 [如何部署 node.js 应用](https://blog.risingstack.com/node-hero-deploy-node-js-heroku-docker/)</br> 13 [如何监控 node.js 应用](https://blog.risingstack.com/node-hero-monitoring-node-js-applications/)</br>
+10 [调试 node.js 应用](https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/)</br> 11 [node.js 安全策略](https://blog.risingstack.com/node-hero-node-js-security-tutorial/)</br> 12 [如何部署 node.js 应用](https://blog.risingstack.com/node-hero-deploy-node-js-heroku-docker/)  
+13 [如何监控 node.js 应用](https://blog.risingstack.com/node-hero-monitoring-node-js-applications/)</br>
 
 ## 相关学习链接
 
